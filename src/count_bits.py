@@ -17,3 +17,5 @@ def countBits(n: int) -> list[int]:
 def test_countBits():
     assert countBits(n = 2) == [0,1,1]
     assert countBits(n = 5) == [0,1,1,2,1,2]
+
+
